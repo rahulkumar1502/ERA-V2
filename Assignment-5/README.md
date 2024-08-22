@@ -15,12 +15,12 @@ This repository contains a PyTorch implementation of a Convolutional Neural Netw
 ### Training the Model
 Clone the repository and run the training script:<br>
 ```
-python S5_Himank_Jain.ipynb
+python ERA_V2_S5_Rahul_Kumar
 
 ```
 ### Code Structure
 The code is divided into thress files:
-- S5_Himank_Jain.ipynb: Main script for training the CNN on the MNIST dataset. Here we load the dataset, visualise some samples, and train the model (from model.py) using functions from utils.py
+- ERA_V2_S5_Rahul_Kumar.ipynb: Main script for training the CNN on the MNIST dataset. Here we load the dataset, visualise some samples, and train the model (from model.py) using functions from utils.py
 - model.py: Definition of the CNN architecture. This file contains two models:
   - Net(): CNN architecture with bias
   - Net2(): CNN architecture without bias
