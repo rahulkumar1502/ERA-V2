@@ -28,4 +28,4 @@ As you can see from above training logs:
 
 <img width="1013" src="images/img-2.png">
 
-The above model is also available on huggingface for testing - https://huggingface.co/spaces/HimankJ/StampDetection
+The above model is also available on huggingface for testing - LINK
